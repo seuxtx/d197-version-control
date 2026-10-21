@@ -1,0 +1,11 @@
+So I noticed after I was done making this that there were two working branches. One with a capital W and a lowercase w, so I just went on with the lowercase one to finish out the project.
+
+Merge Conflict Resolution (E1):
+The merge conflict in README.md occurred because both the Working and Test branches modified had two different lines of code in it, working had git version while the testing only had my student id in it.
+The conflict was fixed by selecting choosing to use the test line of code instead by clicking onto the accept incoming changes that appeared in the README.md file.
+The file conflict was resolved after I chose the incoming changes by using a git add then the merge was completed when I submitted a git commit.
+
+Changes Made in Part C1:
+1. Added a new person to the original crew of workers, his name is Steve
+2. Added training as a service provided by the company, it made more sense for training to be included into the services page
+3. Added a customer review into customer, felt like adding a new customer to give a review.

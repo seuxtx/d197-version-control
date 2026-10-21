@@ -1,0 +1,84 @@
+commit 9800c4a72682a754dba6d866e4dbc481e047273b
+Merge: 446e273 c588ff8
+Author: Brandon Salter <bsalter5444@gmail.com>
+Date:   Wed Jun 4 11:58:54 2025 -0400
+
+     merged with testing
+
+commit c588ff8fda5c880c5200f8cee6a39a8d24469706
+Author: Brandon Salter <bsalter5444@gmail.com>
+Date:   Wed Jun 4 11:51:56 2025 -0400
+
+    update
+
+commit 1e0629bcbfca9f07d3adc5adbb37bf096a26b5c3
+Author: Brandon Salter <bsalter5444@gmail.com>
+Date:   Wed Jun 4 11:44:03 2025 -0400
+
+    Update git version in README on Test branch
+
+commit 446e273d18a59b41714594d78ae2f398779da3eb
+Author: Brandon Salter <bsalter5444@gmail.com>
+Date:   Wed Jun 4 11:43:13 2025 -0400
+
+    Add git version to README in Working branch
+
+commit 1eb85fcffa04c7d3217367aa1e8b08775bf695bb
+Author: Brandon Salter <bsalter5444@gmail.com>
+Date:   Wed Jun 4 11:39:01 2025 -0400
+
+    student id readme
+
+commit a02315130e057d15e95de2c88d40fd7f0b6fbba2
+Author: Brandon Salter <bsalter5444@gmail.com>
+Date:   Wed Jun 4 11:34:28 2025 -0400
+
+    Added training to the list of services that is offered
+
+commit c165fc09691cb9f518504715a1d8c4c024f649f4
+Author: Brandon Salter <bsalter5444@gmail.com>
+Date:   Wed Jun 4 11:31:17 2025 -0400
+
+    Fixed a spell mistake on the team page while also adding in a new member for the crew.
+
+commit 2e89a7ac6b538c19c345bc92185eb12eefad9fdb
+Author: Brandon Salter <bsalter5444@gmail.com>
+Date:   Wed Jun 4 11:27:42 2025 -0400
+
+    added a new customer review to the customers.html
+
+commit b04f347cf1338d84bcbdf76f7afbf0735299c396
+Author: Brandon Salter <bsalter5444@gmail.com>
+Date:   Sun Jun 1 10:33:53 2025 -0400
+
+    reverted changes that was meant for working
+
+commit eb1510795dff546c4bde49151884290a4cc65b4a
+Author: Brandon Salter <bsalter5444@gmail.com>
+Date:   Sun Jun 1 10:13:33 2025 -0400
+
+     added a new customer review to the exisiting customers reviews
+
+commit ff76f32cd33e0c0c5f4397afd8b65e4def7de05c
+Author: Brandon Salter <bsalter5444@gmail.com>
+Date:   Sun Jun 1 10:10:36 2025 -0400
+
+    Added a new line for the contact us stating that we will respond back as soon as possible to help out with the problems you are facing
+
+commit cd7fb31d98a14f69d9a5b8397a437dba33d75f60
+Author: Brandon Salter <bsalter5444@gmail.com>
+Date:   Sun Jun 1 10:09:18 2025 -0400
+
+     added a new line of paragraph to the about section to show the staff wants to help out customers.
+
+commit 194e1b48597d51a13e257693e74da80d2882b5c7
+Author: matt.alexander8 <matt@twocom.com>
+Date:   Thu Aug 24 14:47:21 2023 -0400
+
+    Added intial project
+
+commit 959a15aab3bfa9f105acbbf5d66930b053d28249
+Author: Matt Alexander <matt@twocom.com>
+Date:   Thu Aug 24 17:21:16 2023 +0000
+
+    Initial commit
